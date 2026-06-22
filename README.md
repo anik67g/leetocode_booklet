@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anik67g/leetocode_booklet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anik67g/leetocode_booklet/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/anik67g/leetocode_booklet/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anik67g/leetocode_booklet/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anik67g/leetocode_booklet/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/anik67g/leetocode_booklet/tree/master/0075-sort-colors) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/anik67g/leetocode_booklet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anik67g/leetocode_booklet/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/anik67g/leetocode_booklet/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/anik67g/leetocode_booklet/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/anik67g/leetocode_booklet/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -112,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anik67g/leetocode_booklet/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anik67g/leetocode_booklet/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
