@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0040-combination-sum-ii) |
 | [0189-rotate-array](https://github.com/anik67g/leetocode_booklet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anik67g/leetocode_booklet/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/anik67g/leetocode_booklet/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anik67g/leetocode_booklet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik67g/leetocode_booklet/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
