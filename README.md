@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anik67g/leetocode_booklet/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anik67g/leetocode_booklet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/anik67g/leetocode_booklet/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/anik67g/leetocode_booklet/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/anik67g/leetocode_booklet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anik67g/leetocode_booklet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anik67g/leetocode_booklet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anik67g/leetocode_booklet/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/anik67g/leetocode_booklet/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/anik67g/leetocode_booklet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anik67g/leetocode_booklet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/anik67g/leetocode_booklet/tree/master/0152-maximum-product-subarray) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anik67g/leetocode_booklet/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anik67g/leetocode_booklet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anik67g/leetocode_booklet/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/anik67g/leetocode_booklet/tree/master/0085-maximal-rectangle) |
 ## Union-Find
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anik67g/leetocode_booklet/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anik67g/leetocode_booklet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/anik67g/leetocode_booklet/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/anik67g/leetocode_booklet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anik67g/leetocode_booklet/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anik67g/leetocode_booklet/tree/master/0234-palindrome-linked-list) |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anik67g/leetocode_booklet/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anik67g/leetocode_booklet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/anik67g/leetocode_booklet/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/anik67g/leetocode_booklet/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anik67g/leetocode_booklet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0503-next-greater-element-ii) |
