@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anik67g/leetocode_booklet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anik67g/leetocode_booklet/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/anik67g/leetocode_booklet/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/anik67g/leetocode_booklet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anik67g/leetocode_booklet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/anik67g/leetocode_booklet/tree/master/0493-reverse-pairs) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/anik67g/leetocode_booklet/tree/master/0239-sliding-window-maximum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik67g/leetocode_booklet/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anik67g/leetocode_booklet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anik67g/leetocode_booklet/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/anik67g/leetocode_booklet/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -275,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/anik67g/leetocode_booklet/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/anik67g/leetocode_booklet/tree/master/2104-sum-of-subarray-ranges) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anik67g/leetocode_booklet/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anik67g/leetocode_booklet/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
