@@ -4,10 +4,7 @@ void solve(int idx, vector<int>& nums,
                vector<int>& curr,
                vector<vector<int>>& ans) {
 
-        // if (idx == nums.size()) {
-        //     ans.push_back(curr);
-        //     return;
-        // }
+       
      ans.push_back(curr);
         for(int i= idx ; i<nums.size();i++){
             if( i>idx && nums[i]==nums[i-1]) continue;
