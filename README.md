@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/anik67g/leetocode_booklet/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/anik67g/leetocode_booklet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/anik67g/leetocode_booklet/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/anik67g/leetocode_booklet/tree/master/0216-combination-sum-iii) |
 ## Math
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/anik67g/leetocode_booklet/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/anik67g/leetocode_booklet/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/anik67g/leetocode_booklet/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/anik67g/leetocode_booklet/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/anik67g/leetocode_booklet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anik67g/leetocode_booklet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/anik67g/leetocode_booklet/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/anik67g/leetocode_booklet/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/anik67g/leetocode_booklet/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/anik67g/leetocode_booklet/tree/master/0907-sum-of-subarray-minimums) |
