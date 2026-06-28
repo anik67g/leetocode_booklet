@@ -12,7 +12,7 @@ public:
             ans.push_back(path);
             return ;
         }
-        for(int i = ind ;i<s.size();++i){
+        for(int i = ind ;i<s.size();i++){
            if( ispalindrome(s,ind,i)){
             path.push_back(s.substr(ind,i-ind+1));
             func(i+1,s,path,ans);
