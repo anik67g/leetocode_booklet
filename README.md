@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anik67g/leetocode_booklet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anik67g/leetocode_booklet/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anik67g/leetocode_booklet/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anik67g/leetocode_booklet/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anik67g/leetocode_booklet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anik67g/leetocode_booklet/tree/master/0085-maximal-rectangle) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/anik67g/leetocode_booklet/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/anik67g/leetocode_booklet/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anik67g/leetocode_booklet/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/anik67g/leetocode_booklet/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/anik67g/leetocode_booklet/tree/master/0216-combination-sum-iii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/anik67g/leetocode_booklet/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/anik67g/leetocode_booklet/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/anik67g/leetocode_booklet/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anik67g/leetocode_booklet/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/anik67g/leetocode_booklet/tree/master/0402-remove-k-digits) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anik67g/leetocode_booklet/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anik67g/leetocode_booklet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anik67g/leetocode_booklet/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/anik67g/leetocode_booklet/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/anik67g/leetocode_booklet/tree/master/0085-maximal-rectangle) |
 ## Union-Find
 |  |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anik67g/leetocode_booklet/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anik67g/leetocode_booklet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anik67g/leetocode_booklet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anik67g/leetocode_booklet/tree/master/0145-binary-tree-postorder-traversal) |
