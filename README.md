@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/anik67g/leetocode_booklet/tree/master/0907-sum-of-subarray-minimums) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anik67g/leetocode_booklet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik67g/leetocode_booklet/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anik67g/leetocode_booklet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/anik67g/leetocode_booklet/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anik67g/leetocode_booklet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anik67g/leetocode_booklet/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anik67g/leetocode_booklet/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anik67g/leetocode_booklet/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/anik67g/leetocode_booklet/tree/master/0402-remove-k-digits) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anik67g/leetocode_booklet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
 | ------- |
