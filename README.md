@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/anik67g/leetocode_booklet/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/anik67g/leetocode_booklet/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/anik67g/leetocode_booklet/tree/master/0509-fibonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/anik67g/leetocode_booklet/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/anik67g/leetocode_booklet/tree/master/1922-count-good-numbers) |
 | [3099-harshad-number](https://github.com/anik67g/leetocode_booklet/tree/master/3099-harshad-number) |
 ## Two Pointers
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anik67g/leetocode_booklet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0137-single-number-ii) |
+| [1486-xor-operation-in-an-array](https://github.com/anik67g/leetocode_booklet/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
