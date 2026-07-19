@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/anik67g/leetocode_booklet/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/anik67g/leetocode_booklet/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/anik67g/leetocode_booklet/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/anik67g/leetocode_booklet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anik67g/leetocode_booklet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/anik67g/leetocode_booklet/tree/master/0493-reverse-pairs) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anik67g/leetocode_booklet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/anik67g/leetocode_booklet/tree/master/0260-single-number-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/anik67g/leetocode_booklet/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
 |  |
