@@ -1,11 +1,6 @@
 class Solution {
 public:
-
-    int helper(int n, vector<int> &dp) {
-        if (n == 0 || n == 1) {
-            return n;
-        }
-
+    int helper(int n, vector<int>& dp) {
         if (dp[n] != -1)
             return dp[n];
 
@@ -15,6 +10,8 @@ public:
 
     int fib(int n) {
         vector<int> dp(n + 1, -1);
+        if (n >= 0) dp[0] = 0;
+        if (n >= 1) dp[1] = 1;
         return helper(n, dp);
     }
 };
