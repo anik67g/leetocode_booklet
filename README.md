@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/anik67g/leetocode_booklet/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/anik67g/leetocode_booklet/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/anik67g/leetocode_booklet/tree/master/0907-sum-of-subarray-minimums) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anik67g/leetocode_booklet/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anik67g/leetocode_booklet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik67g/leetocode_booklet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anik67g/leetocode_booklet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anik67g/leetocode_booklet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anik67g/leetocode_booklet/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/anik67g/leetocode_booklet/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anik67g/leetocode_booklet/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik67g/leetocode_booklet/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
