@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/anik67g/leetocode_booklet/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/anik67g/leetocode_booklet/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/anik67g/leetocode_booklet/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/anik67g/leetocode_booklet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/anik67g/leetocode_booklet/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/anik67g/leetocode_booklet/tree/master/0496-next-greater-element-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/anik67g/leetocode_booklet/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/anik67g/leetocode_booklet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/anik67g/leetocode_booklet/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/anik67g/leetocode_booklet/tree/master/0907-sum-of-subarray-minimums) |
 ## Recursion
@@ -379,4 +381,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anik67g/leetocode_booklet/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
