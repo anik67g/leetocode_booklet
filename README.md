@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/anik67g/leetocode_booklet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/anik67g/leetocode_booklet/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/anik67g/leetocode_booklet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anik67g/leetocode_booklet/tree/master/0540-single-element-in-a-sorted-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/anik67g/leetocode_booklet/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/anik67g/leetocode_booklet/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/anik67g/leetocode_booklet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/anik67g/leetocode_booklet/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/anik67g/leetocode_booklet/tree/master/0907-sum-of-subarray-minimums) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anik67g/leetocode_booklet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -397,10 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/anik67g/leetocode_booklet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0494-target-sum) |
 ## Meet in the Middle
 |  |
 | ------- |
