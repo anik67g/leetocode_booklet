@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anik67g/leetocode_booklet/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/anik67g/leetocode_booklet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/anik67g/leetocode_booklet/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/anik67g/leetocode_booklet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/anik67g/leetocode_booklet/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0494-target-sum) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anik67g/leetocode_booklet/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/anik67g/leetocode_booklet/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anik67g/leetocode_booklet/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/anik67g/leetocode_booklet/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/anik67g/leetocode_booklet/tree/master/0876-middle-of-the-linked-list) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anik67g/leetocode_booklet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anik67g/leetocode_booklet/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/anik67g/leetocode_booklet/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/anik67g/leetocode_booklet/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik67g/leetocode_booklet/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/anik67g/leetocode_booklet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anik67g/leetocode_booklet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/anik67g/leetocode_booklet/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik67g/leetocode_booklet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anik67g/leetocode_booklet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Prefix Sum
@@ -426,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/anik67g/leetocode_booklet/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0518-coin-change-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/anik67g/leetocode_booklet/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
