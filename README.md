@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/anik67g/leetocode_booklet/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/anik67g/leetocode_booklet/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/anik67g/leetocode_booklet/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/anik67g/leetocode_booklet/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/anik67g/leetocode_booklet/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anik67g/leetocode_booklet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anik67g/leetocode_booklet/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anik67g/leetocode_booklet/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/anik67g/leetocode_booklet/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/anik67g/leetocode_booklet/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/anik67g/leetocode_booklet/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/anik67g/leetocode_booklet/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/anik67g/leetocode_booklet/tree/master/1922-count-good-numbers) |
 | [3099-harshad-number](https://github.com/anik67g/leetocode_booklet/tree/master/3099-harshad-number) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/anik67g/leetocode_booklet/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0518-coin-change-ii) |
+| [0877-stone-game](https://github.com/anik67g/leetocode_booklet/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/anik67g/leetocode_booklet/tree/master/0907-sum-of-subarray-minimums) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anik67g/leetocode_booklet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
@@ -434,4 +437,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/anik67g/leetocode_booklet/tree/master/0455-assign-cookies) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/anik67g/leetocode_booklet/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/anik67g/leetocode_booklet/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/anik67g/leetocode_booklet/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
