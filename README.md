@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anik67g/leetocode_booklet/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/anik67g/leetocode_booklet/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anik67g/leetocode_booklet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1048-longest-string-chain](https://github.com/anik67g/leetocode_booklet/tree/master/1048-longest-string-chain) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anik67g/leetocode_booklet/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anik67g/leetocode_booklet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anik67g/leetocode_booklet/tree/master/1539-kth-missing-positive-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anik67g/leetocode_booklet/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/anik67g/leetocode_booklet/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/anik67g/leetocode_booklet/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/anik67g/leetocode_booklet/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anik67g/leetocode_booklet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anik67g/leetocode_booklet/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anik67g/leetocode_booklet/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anik67g/leetocode_booklet/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anik67g/leetocode_booklet/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/anik67g/leetocode_booklet/tree/master/0402-remove-k-digits) |
+| [1048-longest-string-chain](https://github.com/anik67g/leetocode_booklet/tree/master/1048-longest-string-chain) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anik67g/leetocode_booklet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anik67g/leetocode_booklet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/anik67g/leetocode_booklet/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/anik67g/leetocode_booklet/tree/master/0907-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/anik67g/leetocode_booklet/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anik67g/leetocode_booklet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
 |  |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/anik67g/leetocode_booklet/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/anik67g/leetocode_booklet/tree/master/0455-assign-cookies) |
+| [1048-longest-string-chain](https://github.com/anik67g/leetocode_booklet/tree/master/1048-longest-string-chain) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik67g/leetocode_booklet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anik67g/leetocode_booklet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Prefix Sum
@@ -274,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anik67g/leetocode_booklet/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anik67g/leetocode_booklet/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/anik67g/leetocode_booklet/tree/master/0697-degree-of-an-array) |
+| [1048-longest-string-chain](https://github.com/anik67g/leetocode_booklet/tree/master/1048-longest-string-chain) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anik67g/leetocode_booklet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
