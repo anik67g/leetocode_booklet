@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anik67g/leetocode_booklet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anik67g/leetocode_booklet/tree/master/0560-subarray-sum-equals-k) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anik67g/leetocode_booklet/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/anik67g/leetocode_booklet/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/anik67g/leetocode_booklet/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anik67g/leetocode_booklet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/anik67g/leetocode_booklet/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anik67g/leetocode_booklet/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anik67g/leetocode_booklet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/anik67g/leetocode_booklet/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/anik67g/leetocode_booklet/tree/master/0907-sum-of-subarray-minimums) |
@@ -319,10 +321,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/anik67g/leetocode_booklet/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anik67g/leetocode_booklet/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/anik67g/leetocode_booklet/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anik67g/leetocode_booklet/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anik67g/leetocode_booklet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -481,4 +485,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/anik67g/leetocode_booklet/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anik67g/leetocode_booklet/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
