@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anik67g/leetocode_booklet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2104-sum-of-subarray-ranges](https://github.com/anik67g/leetocode_booklet/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anik67g/leetocode_booklet/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/anik67g/leetocode_booklet/tree/master/2643-row-with-maximum-ones) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anik67g/leetocode_booklet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anik67g/leetocode_booklet/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/anik67g/leetocode_booklet/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/anik67g/leetocode_booklet/tree/master/0085-maximal-rectangle) |
+| [2643-row-with-maximum-ones](https://github.com/anik67g/leetocode_booklet/tree/master/2643-row-with-maximum-ones) |
 ## Union-Find
 |  |
 | ------- |
