@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/anik67g/leetocode_booklet/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/anik67g/leetocode_booklet/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/anik67g/leetocode_booklet/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/anik67g/leetocode_booklet/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/anik67g/leetocode_booklet/tree/master/0300-longest-increasing-subsequence) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anik67g/leetocode_booklet/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anik67g/leetocode_booklet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anik67g/leetocode_booklet/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/anik67g/leetocode_booklet/tree/master/0493-reverse-pairs) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anik67g/leetocode_booklet/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/anik67g/leetocode_booklet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anik67g/leetocode_booklet/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/anik67g/leetocode_booklet/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anik67g/leetocode_booklet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anik67g/leetocode_booklet/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/anik67g/leetocode_booklet/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/anik67g/leetocode_booklet/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0240-search-a-2d-matrix-ii) |
 | [2643-row-with-maximum-ones](https://github.com/anik67g/leetocode_booklet/tree/master/2643-row-with-maximum-ones) |
 ## Union-Find
 |  |
