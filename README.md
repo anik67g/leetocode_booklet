@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/anik67g/leetocode_booklet/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/anik67g/leetocode_booklet/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/anik67g/leetocode_booklet/tree/master/1048-longest-string-chain) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik67g/leetocode_booklet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anik67g/leetocode_booklet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anik67g/leetocode_booklet/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anik67g/leetocode_booklet/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/anik67g/leetocode_booklet/tree/master/0697-degree-of-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/anik67g/leetocode_booklet/tree/master/1048-longest-string-chain) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anik67g/leetocode_booklet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anik67g/leetocode_booklet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anik67g/leetocode_booklet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anik67g/leetocode_booklet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -515,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/anik67g/leetocode_booklet/tree/master/0322-coin-change) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Complete Knapsack
 |  |
 | ------- |
