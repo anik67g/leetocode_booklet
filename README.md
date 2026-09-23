@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anik67g/leetocode_booklet/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/anik67g/leetocode_booklet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anik67g/leetocode_booklet/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/anik67g/leetocode_booklet/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/anik67g/leetocode_booklet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anik67g/leetocode_booklet/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/anik67g/leetocode_booklet/tree/master/0062-unique-paths) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/anik67g/leetocode_booklet/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/anik67g/leetocode_booklet/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/anik67g/leetocode_booklet/tree/master/0058-length-of-last-word) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/anik67g/leetocode_booklet/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/anik67g/leetocode_booklet/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anik67g/leetocode_booklet/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/anik67g/leetocode_booklet/tree/master/0141-linked-list-cycle) |
