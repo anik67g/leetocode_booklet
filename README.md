@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anik67g/leetocode_booklet/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anik67g/leetocode_booklet/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/anik67g/leetocode_booklet/tree/master/0402-remove-k-digits) |
+| [0856-score-of-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/0856-score-of-parentheses) |
 | [1048-longest-string-chain](https://github.com/anik67g/leetocode_booklet/tree/master/1048-longest-string-chain) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anik67g/leetocode_booklet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anik67g/leetocode_booklet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/anik67g/leetocode_booklet/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/anik67g/leetocode_booklet/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/anik67g/leetocode_booklet/tree/master/0907-sum-of-subarray-minimums) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -608,5 +610,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
