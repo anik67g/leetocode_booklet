@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/anik67g/leetocode_booklet/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anik67g/leetocode_booklet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/anik67g/leetocode_booklet/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anik67g/leetocode_booklet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anik67g/leetocode_booklet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anik67g/leetocode_booklet/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anik67g/leetocode_booklet/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -619,4 +620,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anik67g/leetocode_booklet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anik67g/leetocode_booklet/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
