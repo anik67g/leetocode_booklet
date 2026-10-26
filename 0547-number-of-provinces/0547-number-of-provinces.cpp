@@ -1,51 +1,33 @@
 class Solution {
+void dfs(int node, vector<vector<int>>& isConnected, vector<int>&vis) {
+vis[node] = 1;  // Mark the current node as visited
+
+    for (int it = 0; it < isConnected.size(); it++) {
+        // If a connection exists and the node is not visited
+        if (isConnected[node][it] == 1 && !vis[it]) {
+            dfs(it, isConnected, vis);
+        }
+    }
+}
+
+
 public:
-    vector<int> parent, rank;
+int findCircleNum(vector<vector<int>>& isConnected) {
+int n = isConnected.size();
+vector<int> vis(n, 0);
 
-    int find(int x) {
-        if (parent[x] == x)
-            return x;
-        return parent[x] = find(parent[x]);
-    }
 
-    void Union(int x, int y) {
-        int px = find(x);
-        int py = find(y);
+    int cnt = 0;
 
-        if (px == py)
-            return;
-
-        if (rank[px] < rank[py])
-            swap(px, py);
-
-        parent[py] = px;
-
-        if (rank[px] == rank[py])
-            rank[px]++;
-    }
-
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = isConnected.size();
-
-        parent.resize(n);
-        rank.assign(n, 0);
-
-        iota(parent.begin(), parent.end(), 0);
-
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if (isConnected[i][j])
-                    Union(i, j);
-            }
+    for (int i = 0; i < n; i++) {
+        if (!vis[i]) {
+            cnt++;  // Found a new province
+            dfs(i, isConnected, vis);
         }
-
-        int ans = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (find(i) == i)
-                ans++;
-        }
-
-        return ans;
     }
+
+    return cnt;
+}
+
+
 };
