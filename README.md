@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anik67g/leetocode_booklet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/anik67g/leetocode_booklet/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/anik67g/leetocode_booklet/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/anik67g/leetocode_booklet/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/anik67g/leetocode_booklet/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0229-majority-element-ii) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anik67g/leetocode_booklet/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/anik67g/leetocode_booklet/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/anik67g/leetocode_booklet/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/anik67g/leetocode_booklet/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anik67g/leetocode_booklet/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/anik67g/leetocode_booklet/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/anik67g/leetocode_booklet/tree/master/2643-row-with-maximum-ones) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anik67g/leetocode_booklet/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/anik67g/leetocode_booklet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anik67g/leetocode_booklet/tree/master/0547-number-of-provinces) |
 ## Binary Indexed Tree
 |  |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/anik67g/leetocode_booklet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anik67g/leetocode_booklet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anik67g/leetocode_booklet/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/anik67g/leetocode_booklet/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0543-diameter-of-binary-tree) |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anik67g/leetocode_booklet/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/anik67g/leetocode_booklet/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/anik67g/leetocode_booklet/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/anik67g/leetocode_booklet/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/anik67g/leetocode_booklet/tree/master/0547-number-of-provinces) |
