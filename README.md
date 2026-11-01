@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/anik67g/leetocode_booklet/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anik67g/leetocode_booklet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/anik67g/leetocode_booklet/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/anik67g/leetocode_booklet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/anik67g/leetocode_booklet/tree/master/0493-reverse-pairs) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anik67g/leetocode_booklet/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/anik67g/leetocode_booklet/tree/master/0263-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/anik67g/leetocode_booklet/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anik67g/leetocode_booklet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/anik67g/leetocode_booklet/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/anik67g/leetocode_booklet/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/anik67g/leetocode_booklet/tree/master/1486-xor-operation-in-an-array) |
