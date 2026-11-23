@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anik67g/leetocode_booklet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/anik67g/leetocode_booklet/tree/master/1048-longest-string-chain) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anik67g/leetocode_booklet/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anik67g/leetocode_booklet/tree/master/1352-product-of-the-last-k-numbers) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anik67g/leetocode_booklet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anik67g/leetocode_booklet/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anik67g/leetocode_booklet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anik67g/leetocode_booklet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/anik67g/leetocode_booklet/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/anik67g/leetocode_booklet/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anik67g/leetocode_booklet/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/anik67g/leetocode_booklet/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/anik67g/leetocode_booklet/tree/master/1922-count-good-numbers) |
 | [3099-harshad-number](https://github.com/anik67g/leetocode_booklet/tree/master/3099-harshad-number) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anik67g/leetocode_booklet/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anik67g/leetocode_booklet/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anik67g/leetocode_booklet/tree/master/1352-product-of-the-last-k-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik67g/leetocode_booklet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anik67g/leetocode_booklet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anik67g/leetocode_booklet/tree/master/3904-smallest-stable-index-ii) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/anik67g/leetocode_booklet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anik67g/leetocode_booklet/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/anik67g/leetocode_booklet/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anik67g/leetocode_booklet/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/anik67g/leetocode_booklet/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anik67g/leetocode_booklet/tree/master/1352-product-of-the-last-k-numbers) |
 ## Tree
 |  |
 | ------- |
