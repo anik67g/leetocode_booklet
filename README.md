@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/anik67g/leetocode_booklet/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anik67g/leetocode_booklet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anik67g/leetocode_booklet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anik67g/leetocode_booklet/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anik67g/leetocode_booklet/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anik67g/leetocode_booklet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anik67g/leetocode_booklet/tree/master/3875-construct-uniform-parity-array-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/anik67g/leetocode_booklet/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/anik67g/leetocode_booklet/tree/master/1922-count-good-numbers) |
 | [3099-harshad-number](https://github.com/anik67g/leetocode_booklet/tree/master/3099-harshad-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anik67g/leetocode_booklet/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anik67g/leetocode_booklet/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anik67g/leetocode_booklet/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anik67g/leetocode_booklet/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anik67g/leetocode_booklet/tree/master/0239-sliding-window-maximum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik67g/leetocode_booklet/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anik67g/leetocode_booklet/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sorting
 |  |
 | ------- |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anik67g/leetocode_booklet/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anik67g/leetocode_booklet/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Graph Theory
 |  |
 | ------- |
@@ -670,4 +674,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anik67g/leetocode_booklet/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anik67g/leetocode_booklet/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
